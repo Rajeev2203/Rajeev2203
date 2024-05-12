@@ -1,12 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rajeev Tomar
-====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Rajeev Tomar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Web Developer
 -------------
-
-A passionate frontend developer from India
-
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Tomarrajeev440@gmail.com](mailto:Tomarrajeev440@gmail.com)
