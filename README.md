@@ -6,6 +6,8 @@ Web Developer
 
 A passionate frontend developer from India
 
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Tomarrajeev440@gmail.com](mailto:Tomarrajeev440@gmail.com)
 * 🧠  I'm learning Backend development
